@@ -26,7 +26,14 @@
     "year": "2024-2028",
     "description": ""
   },
-  "featuredProjects": [],
+  "featuredProjects": [
+    {
+      "name": "Test",
+      "description": "",
+      "url": "",
+      "thumbnail": "https://raw.githubusercontent.com/rayhan-404/portfolio-data/main/images/featured-1773895771458.jpg"
+    }
+  ],
   "skills": [
     "React",
     "Node.js",
