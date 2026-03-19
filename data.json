@@ -1,0 +1,43 @@
+{
+  "github": {
+    "username": "",
+    "token": ""
+  },
+  "profile": {
+    "name": "Developer",
+    "role": "Full-Stack Developer · UI Designer",
+    "bio": "Building clean, purposeful digital experiences with modern technologies and a passion for great design.",
+    "status": "Available for work"
+  },
+  "contact": {
+    "email": "your@email.com",
+    "whatsapp": "+880 1XXX-XXXXXX",
+    "facebook": "facebook.com/username"
+  },
+  "tracking": {
+    "title": "Nothing yet",
+    "subtitle": "Add a topic from admin panel",
+    "pct": 0,
+    "log": []
+  },
+  "education": {
+    "degree": "BSc in Computer Science",
+    "institution": "University",
+    "year": "2020 - 2024",
+    "description": "Studied algorithms, data structures, and software engineering."
+  },
+  "featuredProjects": [],
+  "skills": [
+    "React",
+    "Node.js",
+    "TypeScript",
+    "Python",
+    "MongoDB",
+    "Figma",
+    "Docker",
+    "Git"
+  ],
+  "password": "admin123",
+  "heroImage": "",
+  "theme": "dark"
+}
