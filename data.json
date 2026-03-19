@@ -1,6 +1,6 @@
 {
   "profile": {
-    "name": "Developer",
+    "name": "Rayhan",
     "role": "Full-Stack Developer · UI Designer",
     "bio": "",
     "status": "Available for work"
@@ -11,7 +11,12 @@
     "facebook": ""
   },
   "skills": [],
-  "education": {},
+  "education": {
+    "degree": "",
+    "institution": "",
+    "year": "",
+    "description": ""
+  },
   "tracking": {
     "title": "",
     "subtitle": "",
@@ -37,5 +42,5 @@
   "heroImage": "",
   "theme": "light",
   "password": "admin123",
-  "last_saved": 1773901674727
+  "last_saved": 1773901735237
 }
